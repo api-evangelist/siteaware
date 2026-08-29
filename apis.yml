@@ -10,6 +10,17 @@ description: SiteAware is the construction industry's first AI-powered Digital C
   element and flags real-time deviations across structure, envelope, and interior construction,
   giving field teams and business executives actionable data and analytics to catch issues
   before they lead to expensive rework. SiteAware is a portfolio company of Battery Ventures.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
