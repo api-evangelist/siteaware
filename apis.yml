@@ -50,7 +50,7 @@ tags:
 - Quality Assurance
 - Quality Management
 - Artificial Intelligence
-- Computer-Vision
+- Computer Vision
 - Digital Construction Verification
 - Buildings
 tags_raw:
@@ -63,6 +63,7 @@ tags_raw:
 - Computer Vision
 - Digital Construction Verification
 - Buildings
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
